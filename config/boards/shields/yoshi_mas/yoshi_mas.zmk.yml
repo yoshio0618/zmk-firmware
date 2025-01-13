@@ -1,0 +1,11 @@
+file_format: "1"
+id: yoshio
+name: yoshio
+type: shield
+url: https://github.com/Ken-hobby/test2-zmk-config
+requires: [pro-micro]
+features:
+  - keys
+siblings:
+  - yoshi_mas_left
+  - yoshi_mas_right
