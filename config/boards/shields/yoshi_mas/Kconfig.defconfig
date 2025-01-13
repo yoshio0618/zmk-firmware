@@ -1,7 +1,7 @@
 if SHIELD_yoshi_mas_LEFT
 
 config ZMK_KEYBOARD_NAME
-        default "yoshio_masterv1"
+        default "yoshio_master_v1"
 
 config ZMK_SPLIT_ROLE_CENTRAL
         default y
